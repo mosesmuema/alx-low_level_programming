@@ -1,0 +1,7 @@
+# pointers arrays and strings
+
+
+##
+
+
+##
