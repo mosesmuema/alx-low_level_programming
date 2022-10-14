@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdarg.h>
+#include "variadic_functions.h"
 /**
  * print_strings - Print out all given strings
  * @separator: String to print between other strings

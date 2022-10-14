@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdarg.h>
 #include <stdlib.h>
+#include "variadic_functions.h"
 /**
  * print_numbers - Print n amount of numbers, separated by the separator string
  * @separator: The string to pring between numbers
